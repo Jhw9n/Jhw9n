@@ -6,7 +6,7 @@
 | Project | Notes |
 |---------|-------|
 | [JoyCrew](https://github.com/JoyCrew) | 실시간 복지 보상 플랫폼 |
-| [Plantory](https://github.com/UMC-Plantory) | 감정 관리 서비스 |
+| [Plantory](https://github.com/UMC-Plantory/iOS) | 감정 관리 서비스 |
 | [PresenTalk](https://github.com/HongikComputerClub) | AI 기반 선물 추천 서비스 |
 | [ReMind](https://github.com/Team-ReMind) | 정신질환 환자 관리 서비스 |
 | [Z-LIT](https://www.hidcgs2024.com/project_view.php?idx=146) | 가상 아이돌 팬 플랫폼 |
