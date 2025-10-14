@@ -1,4 +1,5 @@
-<img width="1920" height="384" alt="Frame 2087326208" src="https://github.com/user-attachments/assets/a649320f-a717-4046-a1c2-59a3c8076468" />
+<img width="1920" height="384" alt="image" src="https://github.com/user-attachments/assets/87a62682-85a5-4bc2-8339-acb05d2a66f8" />
+
 
 ### 📑 참여프로젝트
 <p align="center">
