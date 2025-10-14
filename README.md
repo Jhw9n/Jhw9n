@@ -1,4 +1,5 @@
-<img width="1920" height="384" alt="image" src="https://github.com/user-attachments/assets/87a62682-85a5-4bc2-8339-acb05d2a66f8" />
+<img width="1920" height="360" alt="image" src="https://github.com/user-attachments/assets/ae3b70be-95ac-4f35-984d-7f3bb82f7850" />
+
 
 
 ### 📑 참여프로젝트
