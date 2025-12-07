@@ -13,6 +13,6 @@
 | [ReMind](https://github.com/Team-ReMind) | 정신질환 환자 관리 서비스 |
 | [Z-LIT](https://www.behance.net/gallery/210704981/Z-LIT-) | 가상 아이돌 팬 플랫폼 |
 | [BIRDY](https://notefolio.net/junghwan/442044) | AI 기반 스마트 여행 매니저 |
-| [파리방get] | 쉐어하우스 매칭 서비스 |
+| 파리방get | 쉐어하우스 매칭 서비스 |
 
 </p>
